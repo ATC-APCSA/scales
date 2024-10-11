@@ -28,7 +28,7 @@ Random variations in size and color are common in nature and will give your patt
 Samples of Student Work
 -----------------------
 
-Ms.Padilla
+Ms.Padilla</br>
 [Amulya](https://amul-gif.github.io/scales/)</br>
 [Truman](https://truman-ev.github.io/scales/)</br>
 Yailyn </br>
