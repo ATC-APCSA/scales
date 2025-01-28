@@ -1,3 +1,5 @@
+// This project is curriculum developed by Art Simon (https://github.com/simart)
+
 ![](VariousScales.png)
 Scales
 ======
